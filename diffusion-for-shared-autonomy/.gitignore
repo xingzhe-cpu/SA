@@ -1,0 +1,24 @@
+.DS_Store
+.idea
+*.log
+tmp/
+
+*.py[cod]
+*.egg
+build
+htmlcov
+
+__pycache__/
+.tox
+wandb/
+.env.secret
+.output/
+etc/
+.conda/
+.mplconfig/
+.pip-cache/
+output-dir/
+data-dir/replay/
+
+# local checkpoint
+*.pt
